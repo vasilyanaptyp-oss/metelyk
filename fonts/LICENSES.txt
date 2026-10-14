@@ -1,0 +1,38 @@
+Local fonts used by the Metelyk salon website
+Downloaded from Google Fonts. License records below were read from the original TTF name tables.
+
+font-1.ttf: Cormorant Garamond, Regular
+nameID 13:
+No record present in the source font.
+nameID 14:
+https://openfontlicense.org
+
+font-2.ttf: Cormorant Garamond Medium, Regular
+nameID 13:
+No record present in the source font.
+nameID 14:
+https://openfontlicense.org
+
+font-3.ttf: Manrope, Regular
+nameID 13:
+No record present in the source font.
+nameID 14:
+http://scripts.sil.org/OFL
+
+font-4.ttf: Manrope Medium, Regular
+nameID 13:
+No record present in the source font.
+nameID 14:
+http://scripts.sil.org/OFL
+
+font-5.ttf: Manrope SemiBold, Regular
+nameID 13:
+No record present in the source font.
+nameID 14:
+http://scripts.sil.org/OFL
+
+font-6.ttf: Manrope, Bold
+nameID 13:
+No record present in the source font.
+nameID 14:
+http://scripts.sil.org/OFL
